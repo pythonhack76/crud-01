@@ -24,6 +24,7 @@
                     <div class="page-header clearfix">
                         <h2 class="pull-left">Employees Details</h2>
                         <a href="create.php" class="btn btn-success pull-right">Add New Employee</a>
+                        <a href="register.php" class="btn btn-warning pull-left">Registrati!</a>
                     </div>
                     <?php
                     // Include config file
